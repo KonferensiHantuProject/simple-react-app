@@ -7,9 +7,6 @@ const Navbar = () => {
                 <a href="#">About</a>
                 <a href="#">Help</a>
                 <a href="#">Blog</a>
-                <button>
-                    
-                </button>
             </nav>
         </header>
     );
